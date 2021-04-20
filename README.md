@@ -1,4 +1,4 @@
-# CL-Aether -- practical astronomy calculations with common lisp
+# CL-Aether: practical astronomy with common lisp
 
 This is a system that translates the equations in _Practical Astronomy with your Calculator_ by Peter Duffet-Smith into common lisp with no external dependencies. It's currently incomplete.
 
